@@ -1,0 +1,15 @@
+C:\Users\PRIDE BEAVER\source\repos\PennyworthSL\PennyworthSL\obj\Release\net6.0\win-x64\PubTmp\Out\PennyworthSL.exe
+C:\Users\PRIDE BEAVER\source\repos\PennyworthSL\PennyworthSL\obj\Release\net6.0\win-x64\PubTmp\Out\appsettings.Development.json
+C:\Users\PRIDE BEAVER\source\repos\PennyworthSL\PennyworthSL\obj\Release\net6.0\win-x64\PubTmp\Out\appsettings.json
+C:\Users\PRIDE BEAVER\source\repos\PennyworthSL\PennyworthSL\obj\Release\net6.0\win-x64\PubTmp\Out\PennyworthSL.dll
+C:\Users\PRIDE BEAVER\source\repos\PennyworthSL\PennyworthSL\obj\Release\net6.0\win-x64\PubTmp\Out\PennyworthSL.deps.json
+C:\Users\PRIDE BEAVER\source\repos\PennyworthSL\PennyworthSL\obj\Release\net6.0\win-x64\PubTmp\Out\PennyworthSL.runtimeconfig.json
+C:\Users\PRIDE BEAVER\source\repos\PennyworthSL\PennyworthSL\obj\Release\net6.0\win-x64\PubTmp\Out\PennyworthSL.pdb
+C:\Users\PRIDE BEAVER\source\repos\PennyworthSL\PennyworthSL\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\PRIDE BEAVER\source\repos\PennyworthSL\PennyworthSL\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\PRIDE BEAVER\source\repos\PennyworthSL\PennyworthSL\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\PRIDE BEAVER\source\repos\PennyworthSL\PennyworthSL\obj\Release\net6.0\win-x64\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\PRIDE BEAVER\source\repos\PennyworthSL\PennyworthSL\obj\Release\net6.0\win-x64\PubTmp\Out\Newtonsoft.Json.Bson.dll
+C:\Users\PRIDE BEAVER\source\repos\PennyworthSL\PennyworthSL\obj\Release\net6.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PRIDE BEAVER\source\repos\PennyworthSL\PennyworthSL\obj\Release\net6.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PRIDE BEAVER\source\repos\PennyworthSL\PennyworthSL\obj\Release\net6.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

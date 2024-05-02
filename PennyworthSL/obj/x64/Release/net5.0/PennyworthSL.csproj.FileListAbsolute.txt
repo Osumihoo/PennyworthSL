@@ -1,0 +1,7 @@
+C:\Users\PRIDE BEAVER\source\repos\PennyworthSL\PennyworthSL\obj\x64\Release\net5.0\PennyworthSL.csproj.AssemblyReference.cache
+C:\Users\PRIDE BEAVER\source\repos\PennyworthSL\PennyworthSL\obj\x64\Release\net5.0\PennyworthSL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRIDE BEAVER\source\repos\PennyworthSL\PennyworthSL\obj\x64\Release\net5.0\PennyworthSL.AssemblyInfoInputs.cache
+C:\Users\PRIDE BEAVER\source\repos\PennyworthSL\PennyworthSL\obj\x64\Release\net5.0\PennyworthSL.AssemblyInfo.cs
+C:\Users\PRIDE BEAVER\source\repos\PennyworthSL\PennyworthSL\obj\x64\Release\net5.0\PennyworthSL.csproj.CoreCompileInputs.cache
+C:\Users\PRIDE BEAVER\source\repos\PennyworthSL\PennyworthSL\obj\x64\Release\net5.0\PennyworthSL.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PRIDE BEAVER\source\repos\PennyworthSL\PennyworthSL\obj\x64\Release\net5.0\PennyworthSL.MvcApplicationPartsAssemblyInfo.cache
